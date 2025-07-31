@@ -2,4 +2,6 @@
 # SPDX-License-Identifier: MPL-2.0
 
 url_source_repository      = "https://github.com/hashicorp/terraform-provider-hcs"
-url_license = "https://github.com/hashicorp/terraform-provider-hcs/blob/main/LICENSE"
+url_license                = "https://github.com/hashicorp/terraform-provider-hcs/blob/main/LICENSE"
+url_project_website        = "https://registry.terraform.io/providers/hashicorp/hcs"
+url_release_notes          = "https://github.com/hashicorp/terraform-provider-hcs/blob/main/CHANGELOG.md"
