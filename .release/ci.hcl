@@ -18,7 +18,7 @@ project "terraform-provider-hcs" {
   github {
     organization     = "hashicorp"
     repository       = "terraform-provider-hcs"
-    release_branches = ["main", "release/**"]
+    release_branches = ["main"]
   }
 }
 
